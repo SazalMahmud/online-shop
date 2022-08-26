@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+
+.logo{
+    height: 150px;
+}
+.header nav{
+    background-color: rgb(196, 255, 242);
+    line-height:50px;
+}
+.header nav a{
+    text-decoration: none;
+    color: rgb(15, 8, 8);
+    margin-right: 20px;
+    padding: 30px;
+    font-size: 22px;
+}
+
+.header nav a:hover{
+    background-color:white;
+}
+.header h4{
+    color: rgb(73, 17, 17);
+    text-align: left;
+}

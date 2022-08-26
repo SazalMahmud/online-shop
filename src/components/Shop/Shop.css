@@ -1,0 +1,21 @@
+.search-container{
+    background-color: rgb(169, 241, 228);
+    text-align: center;
+    line-height: 30px;
+}
+.search-container input{
+    width: 50%;
+}
+.shop-container{
+    display: grid;
+    grid-template-columns:3fr 1fr;
+}
+.product-container{
+    border-right: 1px solid rgb(14, 11, 17);
+    text-align: left;
+    margin-right:20px;
+    margin-left:40px;
+}
+.total{
+    color: green;
+}
